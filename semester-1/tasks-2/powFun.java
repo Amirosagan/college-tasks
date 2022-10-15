@@ -13,7 +13,7 @@ public class powFun {
                 base = base * base;
             }
         }
-        // * this function get pow in O(log power)
+        // * this function get power in O(log power)
         return res;
     }
 
